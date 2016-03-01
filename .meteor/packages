@@ -4,6 +4,7 @@
 # 'meteor add' and 'meteor remove' will edit this file for you,
 # but you can also edit it by hand.
 
+<<<<<<< HEAD
 iron:router
 twbs:bootstrap
 standard-minifiers
@@ -28,3 +29,18 @@ cfs:gridfs
 aldeed:collection2
 aldeed:autoform
 torrmal:camera
+=======
+meteor-platform
+autopublish
+insecure
+twbs:bootstrap
+mrt:flash-messages
+momentjs:moment
+accounts-ui
+accounts-twitter
+peppelg:bootstrap-3-modal
+raix:ui-dropped-event
+iron:router
+cfs:standard-packages
+cfs:gridfs
+>>>>>>> 7e21053e0f9f4962d36b0d8da946479da4bad0af
